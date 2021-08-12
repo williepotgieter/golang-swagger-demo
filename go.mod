@@ -1,4 +1,4 @@
-module github.com/williepot/go/swagger/demo1
+module github.com/williepotgieter/golang-swagger-demo
 
 go 1.16
 
